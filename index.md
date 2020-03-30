@@ -94,8 +94,8 @@ body {font-size:16px;}
   frameborder="0"></iframe> <!-- LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLIIIIIIIIIIIIIIIIIIIIIINNNNNNNNNNNNNNNNNNNNNNNKKKKKKKKKKKKKKKK -->
 
 <div class="w3-bar-block">
-    <a href="lock"class="button">Lock</a> 
-		<a href="unlock" class="button">Unlock</a>  
+    <a href="https://digitalripple.github.io/lock/"class="button">Lock</a> 
+		<a href="https://digitalripple.github.io/unlock/" class="button">Unlock</a>  
   </div>
 
   <!-- Photo grid (modal) -->
